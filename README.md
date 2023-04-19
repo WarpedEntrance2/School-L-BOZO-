@@ -1,4 +1,4 @@
-# how to use:
+# how to use them explots boy your only aids:
 
 for bookmarklets (the ones without .html):
 
@@ -34,14 +34,3 @@ for zip ones (ones with .zip):
 
 3. play it
 
-# my and my contributor's involvement with these
-
-We only made some of these, and we are not responsible for any of them. By using these, you agree to those terms. If you have a reasonable objection to something being on this respiratory, tell me and I'll remove it immediately.
-
-# other
-If you have any issues or ideas, please tell me in discussions (https://github.com/dragon731012/-WORKING-bookmarklets-and-games/discussions/2).
-
-Please enter my code 8B6M1B on fetch and get $2 worth of gift cards! https://referral.fetch.com/vvv3/referraltext?code=8B6M1B
-
-Join my discord here! (Sorry it's bad it's in progress)
-https://discord.gg/hrXXUeWgrn
