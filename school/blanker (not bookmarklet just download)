@@ -1,22 +1,19 @@
-     <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <script>
 function myFunction() {
-    {document.title=prompt('Tab Cloak\n\nEnter new Tab Title:');var icon=document.querySelector
-        ('link[rel="icon"]');switch(prompt('Choose new tab icon:\n\n[1] Google Search\n[2] Google Drive\n[3] Custom URL'))
-        {case'1':icon.setAttribute('href','https://www.google.com/favicon.ico');break;case'2':icon.setAttribute
-        ('href','https://ssl.gstatic.com/images/branding/product/2x/hh_drive_96dp.png');break;case'3':icon.setAttribute
-        ('href',prompt('Enter Custom Tab Icon URL:'))}})()
+javascript:var num=prompt("History flood amount: "); done = false; x = window.location.href; for (var i=1; i<=num; i++) {history.pushState(0, 0, i==num?x:i.toString()); if(i==num){done=true}}if(done===true){alert("History flood successful! "+window.location.href+" now appears in your history "+num+(num==1?" time.":" times. (Someone)"))};
 }
 </script>
 </head>
 <body>
+
 <h2>Demo JavaScript in Head</h2>
 
-<p id="demo">A Paragraph</p>
+<p id="demo">A Paragraph.</p>
+
 <button type="button" onclick="myFunction()">Try it</button>
 
 </body>
 </html> 
-        
